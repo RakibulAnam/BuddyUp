@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BuddyUp</string>
+    <string name="email_hint">Enter Email</string>
+    <string name="pass_hint">Enter Password</string>
+    <string name="login_button_name">Login</string>
+    <string name="register_prompt">Register</string>
+    <string name="brac_id">Enter BracU Id</string>
+    <string name="name_hint">Enter Fulll Name</string>
+    <string name="welcome_bud">Welcome Buddy, What would you like to do?</string>
+    <string name="make_hangout_request">Make Hangout Request</string>
+    <string name="see_hangoutlist">See HangoutList</string>
+    <string name="logout">Logout</string>
+    <string name="what_are_you_interested_in">What Are You Interested In?</string>
+    <string name="location__ques">Where do you want to meet your Budddy?</string>
+
+    <string-array name="location">
+
+        <item>Bottola</item>
+        <item>UB2 Cafe</item>
+        <item>UB3 Cafe</item>
+
+    </string-array>
+
+    <string name="signal">Turn on Flashlight and Wave Hands to signal Buddy</string>
+
+</resources>
